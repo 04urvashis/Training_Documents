@@ -1,0 +1,7 @@
+todo
+
+aws certification
+data engineering concept
+terraform revise
+architecture revise and 2 question out of it
+11 tuesday --docker ppt
